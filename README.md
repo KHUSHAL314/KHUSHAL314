@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/27417716-1bac-4f07-bdec-b872fb1ccf96)Hi there! 👋 I'm Khushal 
+Hi there! 👋 I'm Khushal 
 
 🚀 Cybersecurity Analyst | SIEM Enthusiast | Azure Defender & Sentinel Specialist
 
