@@ -37,5 +37,4 @@ Palo Alto Cortex XSOAR
 🐦 Twitter: https://x.com/MacDenial
 ✉️ Email: khushalbarai88@gmail.com
 
-
 💡 Always eager to collaborate on cybersecurity projects, share knowledge, and learn from fellow security professionals!
